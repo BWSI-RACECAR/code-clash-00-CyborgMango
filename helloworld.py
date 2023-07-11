@@ -18,9 +18,9 @@ Input: "Hello World!"   Output: "Hello World!"
 """
 
 class Solution:
-    def helloworld(a):
+    def helloworld(self,a):
         if a=="Hello World!":
-            return a
+            return "Hello World!"
 
 def main():
     tc1 = Solution()
