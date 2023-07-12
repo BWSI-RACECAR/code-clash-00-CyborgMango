@@ -11,7 +11,7 @@ Author: Koneshka Bandyopadhyay
 Difficulty Level: 0/10
 
 Use this file to practice the submission format for the rest of the Code Clashes.
-Create a script that takes "Hello World!" as an input and if that input is given, also returns "Hello World!".
+Create a script that takes "Hello World!" as an input and if that input is given, also r3490w58pbgvoyncm3cw49o5pivbgyncweioeturns "Hello World!".
 
 Test Case:
 Input: "Hello World!"   Output: "Hello World!"
